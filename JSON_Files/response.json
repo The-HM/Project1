@@ -1,0 +1,2052 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Politics",
+  "last_updated": "2020-10-04T22:49:50-04:00",
+  "num_results": 25,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "After Biden\u2019s Exposure to Trump, His Team Is Cagey on Health Questions",
+      "abstract": "With transparency on health newly significant in the presidential race, Joe Biden\u2019s safety protocols have remained largely under wraps. But on Sunday evening, his campaign said he had again tested negative for the coronavirus.",
+      "url": "https://www.nytimes.com/2020/10/04/us/politics/biden-covid-test-trump.html",
+      "uri": "nyt://article/3768341e-86bd-50ed-acb1-2a5c873ca397",
+      "byline": "By Thomas Kaplan, Apoorva Mandavilli and Katie Glueck",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T15:44:40-04:00",
+      "created_date": "2020-10-04T20:14:57-04:00",
+      "published_date": "2020-10-04T20:14:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Trump Coronavirus Positive Result"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04biden-health-photo/04biden-health-photo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr.\u2019s health protocols have remained largely under wraps, with his campaign saying little about what steps it is taking to protect the 77-year-old candidate.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04biden-health-photo/04biden-health-photo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr.\u2019s health protocols have remained largely under wraps, with his campaign saying little about what steps it is taking to protect the 77-year-old candidate.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04biden-health-photo/04biden-health-photo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr.\u2019s health protocols have remained largely under wraps, with his campaign saying little about what steps it is taking to protect the 77-year-old candidate.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04biden-health-photo/04biden-health-photo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr.\u2019s health protocols have remained largely under wraps, with his campaign saying little about what steps it is taking to protect the 77-year-old candidate.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04biden-health-photo/04biden-health-photo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr.\u2019s health protocols have remained largely under wraps, with his campaign saying little about what steps it is taking to protect the 77-year-old candidate.",
+          "copyright": "Hilary Swift for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lb4thm"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "As Trump Seeks to Project Strength, Doctors Disclose Alarming Episodes",
+      "abstract": "The president made a surprise outing from his hospital bed in an effort to show his improvement, but the murky and shifting narrative of his illness was rewritten again with grim new details.",
+      "url": "https://www.nytimes.com/2020/10/04/us/politics/trump-virus.html",
+      "uri": "nyt://article/e227d668-98e2-5880-9f14-33e4c54b5303",
+      "byline": "By Peter Baker and Maggie Haberman",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T15:44:45-04:00",
+      "created_date": "2020-10-04T21:18:37-04:00",
+      "published_date": "2020-10-04T21:18:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Dexamethasone (Drug)",
+        "Remdesivir (Drug)",
+        "Contact Tracing (Public Health)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Conley, Sean Patrick"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/04dc-virus-trump-window/05AMBRIEFING-virus-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1481,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump briefly left Walter Reed National Military Medical Center on Sunday to greet supporters.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/04dc-virus-trump-window/05AMBRIEFING-virus-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump briefly left Walter Reed National Military Medical Center on Sunday to greet supporters.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/04dc-virus-trump-window/05AMBRIEFING-virus-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump briefly left Walter Reed National Military Medical Center on Sunday to greet supporters.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/04dc-virus-trump-window/05AMBRIEFING-virus-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump briefly left Walter Reed National Military Medical Center on Sunday to greet supporters.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/04dc-virus-trump-window/05AMBRIEFING-virus-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump briefly left Walter Reed National Military Medical Center on Sunday to greet supporters.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Sr3UDJ"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Confronts a New Form of Risk, More Personal and Perilous",
+      "abstract": "With his political career, his business dealings and his reputation, the president has long bet that he can ride out difficulties. Now, though, he is facing an entirely unfamiliar threat.",
+      "url": "https://www.nytimes.com/2020/10/04/us/politics/trump-covid-risk.html",
+      "uri": "nyt://article/3ffe2617-3286-5220-bc21-e814b9377fc5",
+      "byline": "By Matt Flegenheimer",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T03:51:35-04:00",
+      "created_date": "2020-10-04T15:30:52-04:00",
+      "published_date": "2020-10-04T15:30:52-04:00",
+      "material_type_facet": "",
+      "kicker": "Political Memo",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Coronavirus Risks and Safety Concerns"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04memo-risk/merlin_178024689_4bef0ea7-1277-4528-93ce-cdee7a22408e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of President Trump left flowers and balloons at the entrance to Walter Reed National Military Medical Center in Bethesda, Md., on Sunday.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04memo-risk/04memo-risk-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of President Trump left flowers and balloons at the entrance to Walter Reed National Military Medical Center in Bethesda, Md., on Sunday.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04memo-risk/04memo-risk-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of President Trump left flowers and balloons at the entrance to Walter Reed National Military Medical Center in Bethesda, Md., on Sunday.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04memo-risk/merlin_178024689_4bef0ea7-1277-4528-93ce-cdee7a22408e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of President Trump left flowers and balloons at the entrance to Walter Reed National Military Medical Center in Bethesda, Md., on Sunday.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04memo-risk/merlin_178024689_4bef0ea7-1277-4528-93ce-cdee7a22408e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of President Trump left flowers and balloons at the entrance to Walter Reed National Military Medical Center in Bethesda, Md., on Sunday.",
+          "copyright": "Cliff Owen/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cYUdG1"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "\u2018Real Change\u2019: A Race Is On to Register Ex-Felons in Florida",
+      "abstract": "Activists armed with millions of dollars from donors like Michael Bloomberg and LeBron James are canvassing in Florida to help former felons register to vote before a deadline on Monday.",
+      "url": "https://www.nytimes.com/2020/10/04/us/felons-florida-registration-vote.html",
+      "uri": "nyt://article/1f0dbe08-06d2-55cf-bddd-90d747a71139",
+      "byline": "By Patricia Mazzei",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T10:52:38-04:00",
+      "created_date": "2020-10-04T11:52:56-04:00",
+      "published_date": "2020-10-04T11:52:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Ex-Convicts",
+        "Voter Registration and Requirements",
+        "Presidential Election of 2020",
+        "Law and Legislation",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Florida Rights Restoration Coalition"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida",
+        "Liberty City (Miami, Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/04felons-1/merlin_177982428_86533f31-8c34-4f73-89b1-45177c86fc2c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Canvassers for the Florida Rights Restoration Coalition in Miami on Saturday. The coalition helps ex-felons register to vote.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/04felons-1/04felons-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Canvassers for the Florida Rights Restoration Coalition in Miami on Saturday. The coalition helps ex-felons register to vote.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/04felons-1/04felons-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Canvassers for the Florida Rights Restoration Coalition in Miami on Saturday. The coalition helps ex-felons register to vote.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/04felons-1/merlin_177982428_86533f31-8c34-4f73-89b1-45177c86fc2c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Canvassers for the Florida Rights Restoration Coalition in Miami on Saturday. The coalition helps ex-felons register to vote.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/04felons-1/merlin_177982428_86533f31-8c34-4f73-89b1-45177c86fc2c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Canvassers for the Florida Rights Restoration Coalition in Miami on Saturday. The coalition helps ex-felons register to vote.",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30uNheY"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Kamala Harris\u2019s Doubleheader: A Debate and Hearings With Sky-High Stakes",
+      "abstract": "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.html",
+      "uri": "nyt://article/6112367f-30ed-508e-9756-e176f6e2c786",
+      "byline": "By Sydney Ember and Lisa Lerer",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:04:16-04:00",
+      "created_date": "2020-10-05T19:55:15-04:00",
+      "published_date": "2020-10-05T19:55:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Debates (Political)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Pence, Mike",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/merlin_177191493_7e5b4029-ac62-4f97-9a47-fd7d11d8bed8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fiery exchanges have become a hallmark of Senator Kamala Harris\u2019s political career, and were a building block for the core message of her primary campaign that she could prosecute President Trump.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fiery exchanges have become a hallmark of Senator Kamala Harris\u2019s political career, and were a building block for the core message of her primary campaign that she could prosecute President Trump.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fiery exchanges have become a hallmark of Senator Kamala Harris\u2019s political career, and were a building block for the core message of her primary campaign that she could prosecute President Trump.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fiery exchanges have become a hallmark of Senator Kamala Harris\u2019s political career, and were a building block for the core message of her primary campaign that she could prosecute President Trump.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/merlin_177191493_7e5b4029-ac62-4f97-9a47-fd7d11d8bed8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fiery exchanges have become a hallmark of Senator Kamala Harris\u2019s political career, and were a building block for the core message of her primary campaign that she could prosecute President Trump.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3d2NZoB"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Leaves Hospital, Minimizing Virus and Urging Americans \u2018Not to Let It Dominate Your Life\u2019",
+      "abstract": "The president appeared eager to be back at the White House and dispel any questions about his capacity after being diagnosed with the coronavirus, despite continuing questions about his health.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/trump-leaves-hospital-coronavirus.html",
+      "uri": "nyt://article/df8b3313-52a2-5962-85c7-a0a5fbc5461b",
+      "byline": "By Peter Baker and Maggie Haberman",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:37:43-04:00",
+      "created_date": "2020-10-05T19:47:35-04:00",
+      "published_date": "2020-10-05T19:47:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "White House Building (Washington, DC)"
+      ],
+      "org_facet": [
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Hicks, Hope C (1988- )",
+        "McEnany, Kayleigh",
+        "Pence, Mike",
+        "Trump, Melania"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05-dc-virus-trump1/05-dc-virus-trump1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1400,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump leaving Walter Reed National Military Medical Center on Monday before returning to the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05-dc-virus-trump1/05-dc-virus-trump1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump leaving Walter Reed National Military Medical Center on Monday before returning to the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05-dc-virus-trump1/05-dc-virus-trump1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump leaving Walter Reed National Military Medical Center on Monday before returning to the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05-dc-virus-trump1/05-dc-virus-trump1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump leaving Walter Reed National Military Medical Center on Monday before returning to the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05-dc-virus-trump1/05-dc-virus-trump1-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump leaving Walter Reed National Military Medical Center on Monday before returning to the White House.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36zAknL"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "White House Blocks New Coronavirus Vaccine Guidelines",
+      "abstract": "The F.D.A. proposed stricter guidelines for emergency approval of a coronavirus vaccine, but the White House chief of staff objected to provisions that would push approval past Election Day.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/coronavirus-vaccine-guidelines.html",
+      "uri": "nyt://article/aadc2781-e388-5deb-b3b9-fe254ade6dc1",
+      "byline": "By Sharon LaFraniere and Noah Weiland",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:44:46-04:00",
+      "created_date": "2020-10-05T19:16:49-04:00",
+      "published_date": "2020-10-05T19:16:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Clinical Trials",
+        "United States Politics and Government",
+        "Regulation and Deregulation of Industry",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Food and Drug Administration",
+        "Office of Management and Budget (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Meadows, Mark R (1959- )",
+        "Hahn, Stephen M (1960- )",
+        "Azar, Alex M II"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-virus-vaccine/merlin_177550746_b66e91c3-4850-4fd7-b831-6d32ca6e1bd5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer was injected with a coronavirus vaccine as part of a study in Hollywood, Fla., last month.",
+          "copyright": "Marco Bello/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-virus-vaccine/05dc-virus-vaccine-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer was injected with a coronavirus vaccine as part of a study in Hollywood, Fla., last month.",
+          "copyright": "Marco Bello/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-virus-vaccine/05dc-virus-vaccine-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer was injected with a coronavirus vaccine as part of a study in Hollywood, Fla., last month.",
+          "copyright": "Marco Bello/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-virus-vaccine/merlin_177550746_b66e91c3-4850-4fd7-b831-6d32ca6e1bd5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer was injected with a coronavirus vaccine as part of a study in Hollywood, Fla., last month.",
+          "copyright": "Marco Bello/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-virus-vaccine/merlin_177550746_b66e91c3-4850-4fd7-b831-6d32ca6e1bd5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A volunteer was injected with a coronavirus vaccine as part of a study in Hollywood, Fla., last month.",
+          "copyright": "Marco Bello/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/36BUbmb"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "PAC Led by Postal Official Pours $20 Million Into Rescuing Tillis",
+      "abstract": "American Crossroads is wading deeper into Republicans\u2019 fight to keep the Senate with North Carolina ads, renewing partisanship questions at the Postal Service, where a PAC leader has a powerful post.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/super-pac-tillis-postal-service.html",
+      "uri": "nyt://article/3d9f5fe5-15fc-5ac4-9dfc-fd100f71275a",
+      "byline": "By Catie Edmondson and Luke Broadwater",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T19:08:57-04:00",
+      "created_date": "2020-10-05T19:08:57-04:00",
+      "published_date": "2020-10-05T19:08:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Elections, Senate",
+        "Political Action Committees",
+        "Postal Service and Post Offices"
+      ],
+      "org_facet": [
+        "American Crossroads",
+        "Republican Party",
+        "Postal Service (US)"
+      ],
+      "per_facet": [
+        "Cunningham, Cal (1973- )",
+        "DeJoy, Louis",
+        "Tillis, Thomas R"
+      ],
+      "geo_facet": [
+        "North Carolina"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-tillis/merlin_176112966_79dae616-bedf-4b79-bab2-358705dab2df-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1452,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert M. Duncan, on screen, the chairman of the Postal Service board of governors, founded the \u201csuper PAC\u201d American Crossroads and remains on its board.",
+          "copyright": "Pool photo by Tom Brenner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-tillis/merlin_176112966_79dae616-bedf-4b79-bab2-358705dab2df-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert M. Duncan, on screen, the chairman of the Postal Service board of governors, founded the \u201csuper PAC\u201d American Crossroads and remains on its board.",
+          "copyright": "Pool photo by Tom Brenner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-tillis/merlin_176112966_79dae616-bedf-4b79-bab2-358705dab2df-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert M. Duncan, on screen, the chairman of the Postal Service board of governors, founded the \u201csuper PAC\u201d American Crossroads and remains on its board.",
+          "copyright": "Pool photo by Tom Brenner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-tillis/merlin_176112966_79dae616-bedf-4b79-bab2-358705dab2df-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert M. Duncan, on screen, the chairman of the Postal Service board of governors, founded the \u201csuper PAC\u201d American Crossroads and remains on its board.",
+          "copyright": "Pool photo by Tom Brenner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-tillis/merlin_176112966_79dae616-bedf-4b79-bab2-358705dab2df-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert M. Duncan, on screen, the chairman of the Postal Service board of governors, founded the \u201csuper PAC\u201d American Crossroads and remains on its board.",
+          "copyright": "Pool photo by Tom Brenner"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GjL92N"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump\u2019s Campaign Saw an Opportunity. He Undermined It.",
+      "abstract": "The health crisis was a chance for a political reset, some advisers believed, to show a new, more empathetic stance toward the coronavirus. But the candidate did not stick to the narrative.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/trump-virus-campaign.html",
+      "uri": "nyt://article/5a6f0f87-9231-5691-807b-f658c5120eec",
+      "byline": "By Maggie Haberman and Annie Karni",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:14:04-04:00",
+      "created_date": "2020-10-05T18:47:49-04:00",
+      "published_date": "2020-10-05T18:47:49-04:00",
+      "material_type_facet": "",
+      "kicker": "political memo",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05trump-campaign/merlin_178105107_1627d8be-1585-4965-9872-60cf7959bc9e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1296,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump as he departs the Walter Reed Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05trump-campaign/05trump-campaign-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump as he departs the Walter Reed Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05trump-campaign/05trump-campaign-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump as he departs the Walter Reed Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05trump-campaign/05trump-campaign-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump as he departs the Walter Reed Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05trump-campaign/merlin_178105107_1627d8be-1585-4965-9872-60cf7959bc9e-articleInline.jpg",
+          "format": "Normal",
+          "height": 120,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump as he departs the Walter Reed Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36AtazR"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Isn\u2019t \u2018Out of the Woods,\u2019 but We\u2019re in the Dark",
+      "abstract": "Few things are more important than the president\u2019s health \u2014 and the mixed messaging about his condition is putting the United States at risk.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/trump-health-coronavirus.html",
+      "uri": "nyt://article/4e92e530-35a4-5ff2-ada3-b52d53242df4",
+      "byline": "By Lisa Lerer",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T18:40:09-04:00",
+      "created_date": "2020-10-05T18:40:09-04:00",
+      "published_date": "2020-10-05T18:40:09-04:00",
+      "material_type_facet": "",
+      "kicker": "On Politics With Lisa Lerer",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05onpolitics-pm/05onpolitics-pm-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1759,
+          "width": 1759,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05onpolitics-pm/05onpolitics-pm-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05onpolitics-pm/05onpolitics-pm-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05onpolitics-pm/05onpolitics-pm-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05onpolitics-pm/05onpolitics-pm-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30BKeS0"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Barr Plans to Return to Justice Dept. After Negative Coronavirus Test Results",
+      "abstract": "A spokeswoman said the attorney general was considered an essential worker exempt from guidelines on quarantining after potential exposure.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/attorney-general-barr-coronavirus.html",
+      "uri": "nyt://article/8de552f3-70de-52c9-b54e-4988d4eec12a",
+      "byline": "By Katie Benner",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T19:57:44-04:00",
+      "created_date": "2020-10-05T18:38:58-04:00",
+      "published_date": "2020-10-05T18:38:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Barr, William P"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-barr/05dc-barr-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr and Kellyanne Conway at the White House on Sept. 26. Ms. Conway has since tested positive for the coronavirus.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-barr/05dc-barr-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr and Kellyanne Conway at the White House on Sept. 26. Ms. Conway has since tested positive for the coronavirus.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-barr/05dc-barr-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr and Kellyanne Conway at the White House on Sept. 26. Ms. Conway has since tested positive for the coronavirus.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-barr/05dc-barr-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr and Kellyanne Conway at the White House on Sept. 26. Ms. Conway has since tested positive for the coronavirus.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-barr/05dc-barr-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr and Kellyanne Conway at the White House on Sept. 26. Ms. Conway has since tested positive for the coronavirus.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HUz0S5"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "For the Secret Service, a New Question: Who Will Protect Them From Trump?",
+      "abstract": "Central to the job is a willingness to say yes to the president no matter what he asks. Now, that means subjecting an agent\u2019s health to the whims of a contagious president.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/secret-service-trump-virus.html",
+      "uri": "nyt://article/8ff678b5-27d7-53f9-8284-8c064d06bf0d",
+      "byline": "By Zolan Kanno-Youngs and Michael S. Schmidt",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:54:10-04:00",
+      "created_date": "2020-10-05T18:33:08-04:00",
+      "published_date": "2020-10-05T18:33:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Secret Service",
+        "Reed, Walter, National Military Medical Center",
+        "Homeland Security Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05dc-virus-secretservice1/merlin_177865833_e8a59d61-284a-418d-8f86-034aabe32c65-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secret Service agents with President Trump as he greeted his supporters in Minneapolis last week.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05dc-virus-secretservice1/05dc-virus-secretservice1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secret Service agents with President Trump as he greeted his supporters in Minneapolis last week.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05dc-virus-secretservice1/05dc-virus-secretservice1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secret Service agents with President Trump as he greeted his supporters in Minneapolis last week.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05dc-virus-secretservice1/merlin_177865833_e8a59d61-284a-418d-8f86-034aabe32c65-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secret Service agents with President Trump as he greeted his supporters in Minneapolis last week.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05dc-virus-secretservice1/merlin_177865833_e8a59d61-284a-418d-8f86-034aabe32c65-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secret Service agents with President Trump as he greeted his supporters in Minneapolis last week.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34r8Qy6"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "\u2018Don\u2019t Be Afraid of Covid,\u2019 Trump Says, Undermining Public Health Messages",
+      "abstract": "Experts were outraged by the president\u2019s comments about a disease that has killed nearly 210,000 people in the United States.",
+      "url": "https://www.nytimes.com/2020/10/05/health/trump-covid-public-health.html",
+      "uri": "nyt://article/96c7c990-fac8-5ecf-81e7-4cc06b741355",
+      "byline": "By Gina Kolata and Roni Caryn Rabin",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:14:07-04:00",
+      "created_date": "2020-10-05T18:28:50-04:00",
+      "published_date": "2020-10-05T18:28:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Masks",
+        "Medicine and Health",
+        "Coronavirus (2019-nCoV)",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRUMP-UNAFRAID03/05VIRUS-TRUMP-UNAFRAID03-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1413,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump left Walter Reed medical center on Sunday to wave to supporters who had gathered outside the gates.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRUMP-UNAFRAID03/05VIRUS-TRUMP-UNAFRAID03-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump left Walter Reed medical center on Sunday to wave to supporters who had gathered outside the gates.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRUMP-UNAFRAID03/05VIRUS-TRUMP-UNAFRAID03-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump left Walter Reed medical center on Sunday to wave to supporters who had gathered outside the gates.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRUMP-UNAFRAID03/05VIRUS-TRUMP-UNAFRAID03-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump left Walter Reed medical center on Sunday to wave to supporters who had gathered outside the gates.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRUMP-UNAFRAID03/05VIRUS-TRUMP-UNAFRAID03-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump left Walter Reed medical center on Sunday to wave to supporters who had gathered outside the gates.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3la1xS2"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "In Florida, Biden Says \u2018I Wasn\u2019t Surprised\u2019 by Trump\u2019s Diagnosis",
+      "abstract": "Speaking in Miami to Haitian-Americans, Cuban-Americans and others from immigrant backgrounds, Joe Biden wished the president well but urged him to listen to experts on the pandemic.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/biden-florida-covid.html",
+      "uri": "nyt://article/cfd0eb8d-2669-5446-ba50-e273ef70eee1",
+      "byline": "By Katie Glueck",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:37:47-04:00",
+      "created_date": "2020-10-05T18:19:50-04:00",
+      "published_date": "2020-10-05T18:19:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Trump Coronavirus Positive Result",
+        "Elections",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Florida",
+        "Miami (Fla)",
+        "Little Havana (Miami, Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05biden/merlin_178101519_84eca83c-d205-4d13-933a-6f724666f780-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Visiting the Little Havana neighborhood of Miami on Monday, Joseph R. Biden Jr. called for a Cuba policy that emphasizes \u201cempowering the Cuban people to determine their own future.\u201d ",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05biden/05biden-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Visiting the Little Havana neighborhood of Miami on Monday, Joseph R. Biden Jr. called for a Cuba policy that emphasizes \u201cempowering the Cuban people to determine their own future.\u201d ",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05biden/05biden-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Visiting the Little Havana neighborhood of Miami on Monday, Joseph R. Biden Jr. called for a Cuba policy that emphasizes \u201cempowering the Cuban people to determine their own future.\u201d ",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05biden/merlin_178101519_84eca83c-d205-4d13-933a-6f724666f780-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Visiting the Little Havana neighborhood of Miami on Monday, Joseph R. Biden Jr. called for a Cuba policy that emphasizes \u201cempowering the Cuban people to determine their own future.\u201d ",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05biden/merlin_178101519_84eca83c-d205-4d13-933a-6f724666f780-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Visiting the Little Havana neighborhood of Miami on Monday, Joseph R. Biden Jr. called for a Cuba policy that emphasizes \u201cempowering the Cuban people to determine their own future.\u201d ",
+          "copyright": "Hilary Swift for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3d3GLkj"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "When the Patient Is Your Commander in Chief, the Answer Is Usually \u2018Yes, Sir\u2019",
+      "abstract": "The system of military doctors has so hampered the public\u2019s right to know that a commission should be established to re-evaluate the practice, critics say.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/trump-military-doctors.html",
+      "uri": "nyt://article/642f6156-7d05-5754-a9ba-4641687e9454",
+      "byline": "By Jennifer Steinhauer",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:14:04-04:00",
+      "created_date": "2020-10-05T17:58:03-04:00",
+      "published_date": "2020-10-05T17:58:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "Presidents and Presidency (US)",
+        "Doctors"
+      ],
+      "org_facet": [
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": [
+        "Conley, Sean Patrick",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05DC-virus-trump1/merlin_178098234_2a13a4ac-064b-4e1e-9d31-0c4d07a10c48-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201chas never once pushed us to do anything,\u201d Dr. Sean P. Conley, his physician, told reporters at Walter Reed National Military Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05DC-virus-trump1/05DC-virus-trump1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201chas never once pushed us to do anything,\u201d Dr. Sean P. Conley, his physician, told reporters at Walter Reed National Military Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05DC-virus-trump1/05DC-virus-trump1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201chas never once pushed us to do anything,\u201d Dr. Sean P. Conley, his physician, told reporters at Walter Reed National Military Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05DC-virus-trump1/merlin_178098234_2a13a4ac-064b-4e1e-9d31-0c4d07a10c48-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201chas never once pushed us to do anything,\u201d Dr. Sean P. Conley, his physician, told reporters at Walter Reed National Military Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/world/05DC-virus-trump1/merlin_178098234_2a13a4ac-064b-4e1e-9d31-0c4d07a10c48-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201chas never once pushed us to do anything,\u201d Dr. Sean P. Conley, his physician, told reporters at Walter Reed National Military Medical Center on Monday.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Stgp1N"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Justices Thomas and Alito Question Same-Sex Marriage Precedent",
+      "abstract": "The justices, who dissented from the 2015 decision establishing a right to same-sex marriage, said it had cast \u201cpeople of good will as bigots.\u201d",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/thomas-alito-same-sex-marriage.html",
+      "uri": "nyt://article/b70f9279-b676-5369-b48c-8af6bebc0043",
+      "byline": "By Adam Liptak",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T17:50:35-04:00",
+      "created_date": "2020-10-05T17:50:35-04:00",
+      "published_date": "2020-10-05T17:50:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "Freedom of Religion",
+        "Discrimination",
+        "Marriages",
+        "Decisions and Verdicts",
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Alito, Samuel A Jr",
+        "Davis, Kim (1965- )",
+        "Thomas, Clarence"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-marriage/merlin_145743903_04705ee0-286c-48d9-ab06-53ddc123f878-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Obergefell, the lead plaintiff in the 2015 case, said Monday\u2019s opinion was \u201cdeeply disturbing and upsetting.\u201d",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-marriage/05dc-marriage-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Obergefell, the lead plaintiff in the 2015 case, said Monday\u2019s opinion was \u201cdeeply disturbing and upsetting.\u201d",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-marriage/05dc-marriage-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Obergefell, the lead plaintiff in the 2015 case, said Monday\u2019s opinion was \u201cdeeply disturbing and upsetting.\u201d",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-marriage/merlin_145743903_04705ee0-286c-48d9-ab06-53ddc123f878-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Obergefell, the lead plaintiff in the 2015 case, said Monday\u2019s opinion was \u201cdeeply disturbing and upsetting.\u201d",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-marriage/merlin_145743903_04705ee0-286c-48d9-ab06-53ddc123f878-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Obergefell, the lead plaintiff in the 2015 case, said Monday\u2019s opinion was \u201cdeeply disturbing and upsetting.\u201d",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GI19uZ"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "White House Is Not Contact Tracing \u2018Super-Spreader\u2019 Rose Garden Event",
+      "abstract": "Since President Trump\u2019s Covid diagnosis, numerous associates have tested positive, but the White House has not aggressively investigated the outbreak.",
+      "url": "https://www.nytimes.com/2020/10/05/health/contact-tracing-white-house.html",
+      "uri": "nyt://article/788e8996-690f-53ba-a926-56651d477840",
+      "byline": "By Apoorva Mandavilli and Tracey Tully",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:14:08-04:00",
+      "created_date": "2020-10-05T17:31:38-04:00",
+      "published_date": "2020-10-05T17:31:38-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Trump Coronavirus Positive Result",
+        "United States Politics and Government",
+        "Contact Tracing (Public Health)",
+        "Presidential Election of 2020",
+        "Medicine and Health",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "Tests (Medical)"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Barrett, Amy Coney"
+      ],
+      "geo_facet": [
+        "New Jersey"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33yCHWg"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Judges Tell Trump His Officials Are Serving Illegally. He Does Nothing.",
+      "abstract": "Three high-ranking administration officials have been found by courts to be working in violation of a 1998 law that governs how a president can appoint temporary officials.",
+      "url": "https://www.nytimes.com/2020/10/05/climate/trump-pendley-land-management.html",
+      "uri": "nyt://article/5471d1d9-46a2-5421-bf17-2ce4eccd3b3d",
+      "byline": "By Lisa Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:42:55-04:00",
+      "created_date": "2020-10-05T17:22:50-04:00",
+      "published_date": "2020-10-05T17:22:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Environment",
+        "United States Politics and Government",
+        "Federal Lands",
+        "Appointments and Executive Changes",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [
+        "Bureau of Land Management"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Pendley, William Perry",
+        "Cuccinelli, Kenneth T II"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05CLI-PENDLEY01/05CLI-PENDLEY01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A federal judge declared in September that William Perry Pendley had served unlawfully as acting director of the Bureau of Land Management for 424 days.",
+          "copyright": "Chris Dillmann/Vail Daily, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05CLI-PENDLEY01/05CLI-PENDLEY01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A federal judge declared in September that William Perry Pendley had served unlawfully as acting director of the Bureau of Land Management for 424 days.",
+          "copyright": "Chris Dillmann/Vail Daily, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05CLI-PENDLEY01/05CLI-PENDLEY01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A federal judge declared in September that William Perry Pendley had served unlawfully as acting director of the Bureau of Land Management for 424 days.",
+          "copyright": "Chris Dillmann/Vail Daily, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05CLI-PENDLEY01/05CLI-PENDLEY01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A federal judge declared in September that William Perry Pendley had served unlawfully as acting director of the Bureau of Land Management for 424 days.",
+          "copyright": "Chris Dillmann/Vail Daily, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05CLI-PENDLEY01/05CLI-PENDLEY01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A federal judge declared in September that William Perry Pendley had served unlawfully as acting director of the Bureau of Land Management for 424 days.",
+          "copyright": "Chris Dillmann/Vail Daily, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3iuxcMd"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "The Coronavirus May Be Adrift in Indoor Air, C.D.C. Acknowledges",
+      "abstract": "After removing guidance from its website acknowledging \u201cairborne\u201d transmission, the agency cited evidence that indoor air can carry virus-laden particles.",
+      "url": "https://www.nytimes.com/2020/10/05/health/cdc-coronavirus-airborne-indoor-air.html",
+      "uri": "nyt://article/c9b698fd-4e76-564e-a204-7bb00038e59f",
+      "byline": "By Apoorva Mandavilli",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:14:11-04:00",
+      "created_date": "2020-10-05T16:32:52-04:00",
+      "published_date": "2020-10-05T16:32:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Risks and Safety Concerns",
+        "Masks",
+        "Workplace Hazards and Violations",
+        "Hygiene and Cleanliness",
+        "Hospitals",
+        "Disease Rates",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "World Health Organization"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-AEROSOL01/05VIRUS-AEROSOL01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The C.D.C. now emphasizes that indoors, the coronavirus \u201ccan travel distances beyond six feet.\u201d At a recent White House reception, many people gathered closely without masks.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-AEROSOL01/05VIRUS-AEROSOL01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The C.D.C. now emphasizes that indoors, the coronavirus \u201ccan travel distances beyond six feet.\u201d At a recent White House reception, many people gathered closely without masks.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-AEROSOL01/05VIRUS-AEROSOL01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The C.D.C. now emphasizes that indoors, the coronavirus \u201ccan travel distances beyond six feet.\u201d At a recent White House reception, many people gathered closely without masks.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-AEROSOL01/05VIRUS-AEROSOL01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The C.D.C. now emphasizes that indoors, the coronavirus \u201ccan travel distances beyond six feet.\u201d At a recent White House reception, many people gathered closely without masks.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-AEROSOL01/05VIRUS-AEROSOL01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The C.D.C. now emphasizes that indoors, the coronavirus \u201ccan travel distances beyond six feet.\u201d At a recent White House reception, many people gathered closely without masks.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36zINr9"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "As Virus Invades West Wing, White House Reporters Face Heightened Risks",
+      "abstract": "At least three correspondents have tested positive for the coronavirus, along with the press secretary and two of her deputies.",
+      "url": "https://www.nytimes.com/2020/10/05/business/white-house-coronavirus.html",
+      "uri": "nyt://article/92188ba3-02d3-54d5-bfe1-97eb10c1f234",
+      "byline": "By Michael M. Grynbaum",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:14:04-04:00",
+      "created_date": "2020-10-05T16:05:21-04:00",
+      "published_date": "2020-10-05T16:05:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "News and News Media",
+        "Masks"
+      ],
+      "org_facet": [
+        "White House Correspondents Assn"
+      ],
+      "per_facet": [
+        "McEnany, Kayleigh",
+        "Karl, Jonathan"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/business/05virus-whitehouse-press/05virus-whitehouse-press-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kayleigh McEnany, the White House press secretary, on Friday. She said on Monday that she had tested positive for the coronavirus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/business/05virus-whitehouse-press/05virus-whitehouse-press-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kayleigh McEnany, the White House press secretary, on Friday. She said on Monday that she had tested positive for the coronavirus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/business/05virus-whitehouse-press/05virus-whitehouse-press-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kayleigh McEnany, the White House press secretary, on Friday. She said on Monday that she had tested positive for the coronavirus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/business/05virus-whitehouse-press/05virus-whitehouse-press-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kayleigh McEnany, the White House press secretary, on Friday. She said on Monday that she had tested positive for the coronavirus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/business/05virus-whitehouse-press/05virus-whitehouse-press-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kayleigh McEnany, the White House press secretary, on Friday. She said on Monday that she had tested positive for the coronavirus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nmmzic"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Supreme Court Starts Term With Case on the Politics of Judging",
+      "abstract": "The justices considered two provisions of Delaware\u2019s Constitution aimed at ensuring partisan balance on the state\u2019s courts.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/supreme-court-judges-ideology.html",
+      "uri": "nyt://article/f8353fc2-5815-5fbe-924f-9590eb5bc0b0",
+      "byline": "By Adam Liptak",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T15:59:36-04:00",
+      "created_date": "2020-10-05T15:35:57-04:00",
+      "published_date": "2020-10-05T15:35:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Constitutions"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Roberts, John G Jr",
+        "McConnell, Michael W",
+        "Sotomayor, Sonia",
+        "Breyer, Stephen G",
+        "Gorsuch, Neil M"
+      ],
+      "geo_facet": [
+        "Delaware"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-scotus/merlin_177743214_eb30adc3-3f40-44fd-83da-2f5396c339a8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court will decide whether states may take account of political affiliation when appointing judges.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-scotus/05dc-scotus-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court will decide whether states may take account of political affiliation when appointing judges.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-scotus/05dc-scotus-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court will decide whether states may take account of political affiliation when appointing judges.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-scotus/merlin_177743214_eb30adc3-3f40-44fd-83da-2f5396c339a8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court will decide whether states may take account of political affiliation when appointing judges.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/us/politics/05dc-scotus/merlin_177743214_eb30adc3-3f40-44fd-83da-2f5396c339a8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court will decide whether states may take account of political affiliation when appointing judges.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33xW0yH"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "To push back against Martha McSally, Mark Kelly enlists the senator who beat her before.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/to-push-back-against-martha-mcsally-mark-kelly-enlists-the-senator-who-beat-her-before.html",
+      "uri": "nyt://article/2739882c-bcaa-5e0c-9f56-7d45a558b951",
+      "byline": "By Shane Goldmacher",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T18:08:48-04:00",
+      "created_date": "2020-10-05T11:48:48-04:00",
+      "published_date": "2020-10-05T11:48:48-04:00",
+      "material_type_facet": "",
+      "kicker": "Ad Watch",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": "https://nyti.ms/2SwAPqp"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "China Ramps Up a War of Words, Warning the U.S. of Its Red Lines",
+      "abstract": "As the United States and Taiwan draw closer, state propaganda is sending the message that China will go to war if necessary.",
+      "url": "https://www.nytimes.com/2020/10/05/world/asia/china-propaganda-united-states.html",
+      "uri": "nyt://article/c4fc403d-34ec-50bc-b09f-ab7df0e57c6f",
+      "byline": "By Steven Lee Myers",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:42:56-04:00",
+      "created_date": "2020-10-05T11:43:59-04:00",
+      "published_date": "2020-10-05T11:43:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Defense and Military Forces",
+        "Politics and Government",
+        "United States International Relations",
+        "Propaganda",
+        "United States Defense and Military Forces",
+        "Video Recordings, Downloads and Streaming"
+      ],
+      "org_facet": [
+        "Communist Party of China",
+        "Global Times"
+      ],
+      "per_facet": [
+        "Hu Xijin",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/asia/china-war-clip1-promo/china-war-clip1-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/asia/china-war-clip1-promo/china-war-clip1-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/asia/china-war-clip1-promo/china-war-clip1-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/asia/china-war-clip1-promo/china-war-clip1-promo-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/asia/china-war-clip1-promo/china-war-clip1-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3l8SwIW"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Behind the Coal Industry\u2019s Trump-Era Lobbying War",
+      "abstract": "Here are excerpts from a collection of documents that detail the failed effort by the Trump administration to save the largest coal-burning power plant in the West.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/coal-trump-industry-lobbying.html",
+      "uri": "nyt://article/1637fc0e-e946-52dd-b878-f584d12641b4",
+      "byline": "By Eric Lipton",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T11:49:43-04:00",
+      "created_date": "2020-10-05T11:37:10-04:00",
+      "published_date": "2020-10-05T11:37:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coal",
+        "Mines and Mining",
+        "United States Politics and Government",
+        "Air Pollution",
+        "Lobbying and Lobbyists",
+        "Electric Light and Power",
+        "Environment",
+        "Natural Gas"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-sidebar/merlin_168115770_e7a52dd3-cbef-445c-84db-04a4bf12c850-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Navajo Generating Station in Page, Ariz., once the largest coal-fueled power plant in the West, shut down despite support from the Trump administration and a lobbying campaign.",
+          "copyright": "Christie Hemm Klok for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-sidebar/19dc-coal-sidebar-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Navajo Generating Station in Page, Ariz., once the largest coal-fueled power plant in the West, shut down despite support from the Trump administration and a lobbying campaign.",
+          "copyright": "Christie Hemm Klok for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-sidebar/19dc-coal-sidebar-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Navajo Generating Station in Page, Ariz., once the largest coal-fueled power plant in the West, shut down despite support from the Trump administration and a lobbying campaign.",
+          "copyright": "Christie Hemm Klok for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-sidebar/merlin_168115770_e7a52dd3-cbef-445c-84db-04a4bf12c850-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Navajo Generating Station in Page, Ariz., once the largest coal-fueled power plant in the West, shut down despite support from the Trump administration and a lobbying campaign.",
+          "copyright": "Christie Hemm Klok for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-sidebar/merlin_168115770_e7a52dd3-cbef-445c-84db-04a4bf12c850-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Navajo Generating Station in Page, Ariz., once the largest coal-fueled power plant in the West, shut down despite support from the Trump administration and a lobbying campaign.",
+          "copyright": "Christie Hemm Klok for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lgzjFu"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "\u2018The Coal Industry Is Back,\u2019 Trump Proclaimed. It Wasn\u2019t.",
+      "abstract": "The demise of coal-fired power plants in Arizona and Kentucky shows how the president, despite promises to restore jobs, failed to counter the forces decimating the industry.",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/trump-coal-industry.html",
+      "uri": "nyt://article/6dd27996-580c-5727-96de-92db40fd078f",
+      "byline": "By Eric Lipton",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:25:06-04:00",
+      "created_date": "2020-10-05T11:30:15-04:00",
+      "published_date": "2020-10-05T11:30:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coal",
+        "Mines and Mining",
+        "Shutdowns (Institutional)",
+        "Presidential Election of 2020",
+        "Layoffs and Job Reductions",
+        "United States Politics and Government",
+        "United States Economy",
+        "Labor and Jobs",
+        "Navajo Indians",
+        "Greenhouse Gas Emissions",
+        "Solar Energy"
+      ],
+      "org_facet": [
+        "Bureau of Reclamation",
+        "Environmental Protection Agency",
+        "Interior Department",
+        "Lazard LLC",
+        "Navajo Generating Station",
+        "Murray Energy Corp",
+        "Tennessee Valley Authority",
+        "United Mine Workers of America"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Cameron, Scott J",
+        "Craft, Joseph W III",
+        "Gosar, Paul (1958- )",
+        "Jewell, Sally",
+        "McConnell, Mitch",
+        "Murray, Robert E",
+        "Obama, Barack",
+        "Prine, John",
+        "Pruitt, Scott",
+        "Wehrum, William L",
+        "Wheeler, Andrew R",
+        "Zinke, Ryan (1961- )"
+      ],
+      "geo_facet": [
+        "Arizona",
+        "Grand Canyon (Ariz)",
+        "Kentucky"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-promo-still/19dc-coal-promo-still-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-promo-still/19dc-coal-promo-still-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-promo-still/19dc-coal-promo-still-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-promo-still/19dc-coal-promo-still-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19dc-coal-promo-still/19dc-coal-promo-still-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/30Rq5b1"
+    }
+  ]
+}
